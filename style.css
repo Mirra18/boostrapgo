@@ -1,0 +1,12 @@
+nav .d-flex a{
+    background-color:rgb(14, 13, 13) ;
+    color: white;
+    text-decoration: none;
+    padding: 7px 12px;
+    font-size: 13px;
+    font-weight: 500;
+    border-radius: 10px;
+}
+button{
+    margin-top: 20px;
+}
